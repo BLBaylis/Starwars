@@ -1,17 +1,11 @@
-@font-face {
-  font-family: "StarWars";
-  src: url('C:/Windows/Fonts/Starjout.ttf');
-  }
-
 body {
-  background-image: url('https://imgnooz.com/sites/default/files/wallpaper/movies/60125/r2d2-wallpapers-60125-5940913.jpg');
+  background-image: url("https://imgnooz.com/sites/default/files/wallpaper/movies/60125/r2d2-wallpapers-60125-5940913.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 h1 {
-  font-family: StarWars;
   font-weight: 1;
   color: gold;
   text-align: center;
